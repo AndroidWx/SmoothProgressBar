@@ -5,7 +5,7 @@ import android.graphics.Paint;
 import android.graphics.drawable.shapes.Shape;
 
 /**
- * Created by castorflex on 3/5/14.
+ * Created by castorflex on 3/5/14.   17/7/14
  */
 public class ColorsShape extends Shape {
 
